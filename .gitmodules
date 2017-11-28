@@ -26,11 +26,7 @@
 	path = build/freetype
 	url = git://git.sv.gnu.org/freetype/freetype2.git
 	ignore = dirty
-[submodule "build/ffmpeg-webm"]
-	path = build/ffmpeg-webm
-	url = https://git.ffmpeg.org/ffmpeg.git
-	ignore = dirty
-[submodule "build/ffmpeg-mp4"]
-	path = build/ffmpeg-mp4
+[submodule "build/ffmpeg"]
+	path = build/ffmpeg
 	url = https://git.ffmpeg.org/ffmpeg.git
 	ignore = dirty
